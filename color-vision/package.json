@@ -1,0 +1,21 @@
+{
+    "name": "color-vision",
+    "displayName": "Color Vision",
+    "description": "Look, this is what you see.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Color Vision",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Color Vision-color-theme.json"
+            }
+        ]
+    }
+}
